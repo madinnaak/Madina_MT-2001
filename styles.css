@@ -1,0 +1,55 @@
+
+h1 { color: #28a745; font-family: ‘Lobster’, cursive; font-size: 36px; font-weight: normal; line-height: 48px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
+
+h2 { color: #28a745; font-family: ‘Oleo Script’, cursive; font-size: 24px; font-weight: normal; line-height: 32px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
+
+p { color: #6f42c1; font-family: ‘Original Surfer’, cursive; font-size: 16px; line-height: 28px; margin: 0 0 24px; }
+
+a { color: #28a745; font-family: ‘Original Surfer’, cursive; }
+
+a:hover { text-decoration: underline }
+
+.page-section .page-section-heading {
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+
+
+
+.divider-custom {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider-custom .divider-custom-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #2c3e50;
+  border-radius: 1rem;
+  border-color: #2c3e50 !important;
+}
+.divider-custom .divider-custom-line:first-child {
+  margin-right: 1rem;
+}
+.divider-custom .divider-custom-line:last-child {
+  margin-left: 1rem;
+}
+.divider-custom.divider-light .divider-custom-line {
+  background-color: #fff;
+}
+
+
+
+
+
+.bg-colour1 {
+  background-color: #FFDAB9 ;
+}
+
+.bg-colour2 {
+  background-color: #f8f9fa ;
+}
+
